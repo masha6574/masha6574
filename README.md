@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **React** and **MongoDB**
 - 📫 How to reach me: **drkg0006@gmail.com**
 
-<!-- Dynamic Animation for the Profile Views -->
+<!-- Adding style for animations -->
 <style>
   /* Profile Views Badge Hover Effect */
   @keyframes bounce {
@@ -40,6 +40,7 @@
     100% { transform: rotate(360deg); }
   }
 </style>
+
 
 
 <h3 align="center">Connect with me:</h3>
