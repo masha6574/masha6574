@@ -1,12 +1,46 @@
 <h1 align="center">Hi ❤️, I'm Madhav!</h1>
 <h3 align="center">A passionate developer from India....</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=masha6574&label=Profile%20views&color=0e75b6&style=flat-square&logo=github&logoColor=white" alt="masha6574" width="250" />
+<!-- Profile Views Section with Animation -->
+<p align="center">
+  <a href="https://github.com/masha6574">
+    <img 
+      src="https://komarev.com/ghpvc/?username=masha6574&label=Profile%20views&color=0e75b6&style=flat-square&logo=github&logoColor=white" 
+      alt="Profile Views"
+      width="250"
+      style="animation: bounce 2s infinite;">
+  </a>
+</p>
+
+<!-- Animated Profile Image with Rotating Effect -->
+<p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/71757994?v=4" 
+    alt="Madhav's Profile Picture"
+    width="150" 
+    height="150"
+    style="border-radius: 50%; border: 5px solid #0e75b6; animation: rotate 4s infinite;">
 </p>
 
 - 🌱 I’m currently learning **React** and **MongoDB**
 - 📫 How to reach me: **drkg0006@gmail.com**
+
+<!-- Dynamic Animation for the Profile Views -->
+<style>
+  /* Profile Views Badge Hover Effect */
+  @keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+  }
+
+  /* Profile Image Rotation Effect */
+  @keyframes rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
