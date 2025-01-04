@@ -1,6 +1,7 @@
 <h1 align="center">Hi ❤️, I'm Madhav !</h1>
-<h3 align="center">A passionate developer from India....</h3>
+<h3 align="center">One idea at a time....</h3>
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masha6574&label=Profile%20views&color=0e75b6&style=flat" alt="masha6574" /> </p>
 
 - 🌱 I’m currently learning **React and MongoDB**
@@ -24,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masha6574&show_icons=true&locale=en" alt="masha6574" /></p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
